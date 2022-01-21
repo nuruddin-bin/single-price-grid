@@ -22,7 +22,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: lightblue;
+    background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,7 +38,7 @@ body{
 }
 
 .card-wrapper{
-    background-color: lightcyan;
+    background-color: transparent;
     width: min(40rem, 90%);
     border-radius: .5rem;
     overflow: hidden;
